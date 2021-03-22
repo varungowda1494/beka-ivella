@@ -1,5 +1,7 @@
 # beka-ivella
 
+  Run as: python3 Pre-processor/preprocessor.py
+  
   NOTE: Please view as raw
   
   Should look like
